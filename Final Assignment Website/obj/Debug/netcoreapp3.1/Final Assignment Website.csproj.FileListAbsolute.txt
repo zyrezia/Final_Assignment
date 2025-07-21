@@ -1,0 +1,37 @@
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.exe
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.deps.json
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.runtimeconfig.json
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.runtimeconfig.dev.json
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.dll
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.pdb
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.Views.dll
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\bin\Debug\netcoreapp3.1\Final Assignment Website.Views.pdb
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.csproj.AssemblyReference.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.AssemblyInfoInputs.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.AssemblyInfo.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.csproj.CoreCompileInputs.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.RazorAssemblyInfo.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.RazorAssemblyInfo.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.TagHelpers.input.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.TagHelpers.output.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.RazorCoreGenerate.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.RazorTargetAssemblyInfo.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.RazorTargetAssemblyInfo.cs
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.Views.pdb
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\staticwebassets\Final Assignment Website.StaticWebAssets.Manifest.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\staticwebassets\Final Assignment Website.StaticWebAssets.xml
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.dll
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.pdb
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.genruntimeconfig.cache
+C:\Users\mr_jo\Source\Repos\Final_Assignment\Final Assignment Website\obj\Debug\netcoreapp3.1\Final Assignment Website.csproj.CopyComplete
